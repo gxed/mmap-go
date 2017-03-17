@@ -1,0 +1,15 @@
+{
+  "author": "gxed",
+  "bugs": {
+    "URL": "https://github.com/gxed/mmap-go/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/gxed/mmap-go"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "BSD-3",
+  "name": "mmap-go",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.1.0"
+}
